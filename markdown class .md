@@ -7,9 +7,15 @@
 ## <span style="color:black; background-color: orange">**How to use this form of file?**<br>
 - We can **emphasize** and **separate** title and scripts. 
 - We can **color** particular numbers or texts. 
-- We can **quote** and **write** variable cord below<br>
-- For more information of My github, Click this footnote<sup>[1](Zeeto'sgithub)</sup><br>
-or Click this [Twitter](https://twitter.com/clover1ess)<br>
+- We can **quote** and ***write*** variable cord below<br>
+- And This form is *very useful* to write _in variable site_
+- For more information of My github, Click this footnote<sup>[1](Zeeto'sgithub)</sup>or Click this [Twitter](https://twitter.com/clover1ess)<br>
+> - [X] I want to wake up morning early in these days
+> - [ ] I wnat to write fully my portfolio 
+>> <img src ='https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png' width='200' height='150'></img>
+<!---width and height's unit is pixel.--->
+>>> I wanna mark and record these things
+
 <a name="Zeeto's github">1</a>: https://github.com/clover1ess<br>
 
 | 1 | 2 | 3 | 
@@ -25,7 +31,7 @@ const Carotenoid = (A, B, C, D) => {
 };
 let carot = Carotenoid(1.72343, 1.734155, 1.60662, 44);
 console.log(carot[0], carot[1], carot[2]);
-
+/*footnote in markdown of code block is up to following syntax*/
 <body>
     <form id="login-form">
         <input type="text" placeholder="What is your Name?"/>
