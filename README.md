@@ -1,5 +1,5 @@
-# Markdown-class
+# Vim / Markdown-class
 
-## **Welcome to my Markdown class!!** 
-- I want to good at using markdown syntax.
-- Plz feel free to branch my scratch pad!!
+## **Welcome to my Vim / Markdown class!!** 
+- I want to good at using Vim / markdown syntax.
+- Plz feel free to branch and use my scratch pad!!
